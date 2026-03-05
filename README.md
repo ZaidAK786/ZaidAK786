@@ -1,13 +1,21 @@
 
-## Hi, I'm Zaid Khan
+## About Me
 
-Currently pursuing an **MS in Mechanical & Aerospace Engineering** at Illinois Tech where I'm specializing in fields like:
+Hi, I am Zaid Khan an ML enthusiast pursuing an **MS in Mechanical & Aerospace Engineering** at Illinois Tech where I'm specializing in fields like:
 
 - CFD and fluid mechanics
 
 - Engineering design (CAD)
 
 - AI/ML for engineering systems
+
+## Engineering Portfolio
+
+You can find all my recent projects and research below.
+
+Portfolio Repository: https://github.com/ZaidAK786/engineering-portfolio
+
+## Featured Project & Work
 
 Currently working part-time as a **Machine Learning Research Intern** at Neobotics Foundation Inc. and a **Student Consultant** at Build Fellowship Hub where I am contributing to exciting projects using Fusion 360, Unity, Ubuntu, and many other tools! 
 
@@ -22,6 +30,8 @@ Some of the major projects I have conducted include:
 - The design of an enclosure for an EV Battery through Fusion 360.
 
 - The optimization of neural operators in predicting cylinder wake flow under sparse data conditions.
+
+## Tools & Software
 
 I am proficient with the following tools:
 
