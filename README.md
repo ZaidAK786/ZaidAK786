@@ -15,6 +15,19 @@ You can find all my recent projects and research below.
 
 Portfolio Repository: https://github.com/ZaidAK786/engineering-portfolio
 
+### 🏎️ Featured Project: NeoRacer-RL
+**Autonomous Racing Simulation & Reinforcement Learning Architecture**
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neobotics-Foundation-Inc/NeoRacer-RL) 
+
+Architected an open-source autonomous racing platform utilizing **Unity ML-Agents** and **Proximal Policy Optimization (PPO)**. Built to move away from rigid autograders, this project provides a highly optimized environment for testing and training autonomous agents in confined track physics.
+
+* **Hybrid Learning Pipeline:** Engineered a two-stage training architecture, utilizing Behavioral Cloning (BC) for the initial 150k steps to establish an optimal racing line before transitioning to pure RL for trajectory optimization.
+* **Dense Reward Engineering:** Designed a continuous reward function using Power Mean smoothing to couple normalized speed and alignment vectors, successfully eliminating agent point-farming exploits.
+* **Optimized Perception:** Downsampled high-density LiDAR into a custom 7-ray perception suite, dramatically reducing computational overhead and vector space mismatches.
+* **Open-Source Mentorship:** Authored comprehensive Architecture Reports and Student Training Guides to onboard peers into RL hyperparameter configuration and TensorBoard data analysis.
+
+**Tech Stack:** `C#` • `Python` • `Unity ML-Agents` • `PPO` • `TensorBoard` • `Git`
+
 ## Featured Project & Work
 
 Currently working part-time as a **Machine Learning Research Intern** at Neobotics Foundation Inc. and a **Student Consultant** at Build Fellowship Hub where I am contributing to exciting projects using Fusion 360, Unity, Ubuntu, and many other tools! 
