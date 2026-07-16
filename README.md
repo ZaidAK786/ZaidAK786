@@ -30,7 +30,9 @@ Architected an open-source autonomous racing platform utilizing **Unity ML-Agent
 
 ## Featured Project & Work
 
-Currently working part-time as a **Machine Learning Research Intern** at Neobotics Foundation Inc. and a **Student Consultant** at Build Fellowship Hub where I am contributing to exciting projects using Fusion 360, Unity, Ubuntu, and many other tools! 
+Currently working full-time as a **Teaching Assistant** at **MIT Beaver Works Summer Institute**. 
+
+Worked part-time as a **Machine Learning Research Intern** at Neobotics Foundation Inc. and a **Student Consultant** at Build Fellowship Hub where I am contributing to exciting projects using Fusion 360, Unity, Ubuntu, and many other tools! 
 
 I am also the **Technical Project Director** at AIAA Chapter at Illinois Tech where I lead weekly meetings, coordinate workshops/events, and spearhead the _Design, Build, Fly_ competition. 
 
