@@ -15,6 +15,11 @@ You can find all my recent projects and research below.
 
 Portfolio Repository: https://github.com/ZaidAK786/engineering-portfolio
 
+## Work Experience
+### Teaching Assistant at MIT BWSI
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZaidAK786/bwsi-ta)
+### Waterjet Technician at Salford Racing
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZaidAK786/waterjet-technician)
 ### Internship Project: NeoRacer-RL
 **Autonomous Racing Simulation & Reinforcement Learning Architecture**
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neobotics-Foundation-Inc/NeoRacer-RL) 
