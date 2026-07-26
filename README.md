@@ -11,7 +11,9 @@ Hi, I am Zaid Khan an ML enthusiast pursuing an **MS in Mechanical & Aerospace E
 
 ## Engineering Portfolio
 Check out my Website! https://ZaidAK786.github.io/engineering-portfolio/ </br>
+
 You can find all my recent projects and research below. </br>
+
 Portfolio Repository: https://github.com/ZaidAK786/engineering-portfolio
 
 ## Work Experience
