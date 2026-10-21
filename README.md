@@ -16,6 +16,8 @@ You can find all my recent projects and research below. </br>
 
 Portfolio Repository: https://github.com/ZaidAK786/engineering-portfolio
 
+**Resume:** [Resume-Zaid-Khan.pdf](https://zaidak786.github.io/engineering-portfolio/reports/Resume-Zaid-Khan.pdf)
+
 ## Work Experience
 ### Teaching Assistant at MIT BWSI
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZaidAK786/bwsi-ta)
